@@ -1,0 +1,10 @@
+.table {
+    margin: auto;
+    width: 100% !important; 
+ }
+
+@media (max-width: 767px) {
+    .nav {
+        color: royalblue;
+    }
+}
