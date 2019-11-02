@@ -5,6 +5,6 @@
 
 @media (max-width: 767px) {
     .navbar {
-        color: royalblue;
+        background-color: royalblue;
     }
 }
